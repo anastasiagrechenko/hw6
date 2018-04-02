@@ -16,6 +16,12 @@
 
 ![](https://raw.githubusercontent.com/anastasiagrechenko/hw6/master/цг3.png)
 
+# AntConc
+
+Сравнение текстов Л. Толстого "Анна Каренина" и Б. Вербера "Империя Ангелов".
+
+а) 
+
 
 
 
