@@ -27,7 +27,7 @@
 б)На этих фотографиях мы наблюдаем наиболее редкие слова в текстах. Были использованы настройки WordList - Sort by Freq для получения списка наиболее часто используемых слов, затем, для того, чтобы определить слова, которые были использованы наиболее редко была выбрана опция Invert Order. 
 
 ![](https://raw.githubusercontent.com/anastasiagrechenko/hw6/master/цг%205.png)
-![](
+![](https://raw.githubusercontent.com/anastasiagrechenko/hw6/master/цг%205(2).png)
 
 
 
