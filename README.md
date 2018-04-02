@@ -42,6 +42,7 @@
 
 ![](https://raw.githubusercontent.com/anastasiagrechenko/hw6/master/цг9.png)
 ![](https://raw.githubusercontent.com/anastasiagrechenko/hw6/master/цг10.png)
+![](https://raw.githubusercontent.com/anastasiagrechenko/hw6/master/цг11.png)
 
 
 
