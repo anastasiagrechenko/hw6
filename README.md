@@ -8,4 +8,8 @@
 
 Задание 2
 
+![](https://raw.githubusercontent.com/anastasiagrechenko/hw6/master/цг2.png)
+
+
+
 
