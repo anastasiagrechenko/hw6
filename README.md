@@ -38,7 +38,8 @@
 ![](https://raw.githubusercontent.com/anastasiagrechenko/hw6/master/цг8.png)
 
 г)Concordance Plot
-В данном задании мы анализируем текст более глубоко, так как данная функция дает нам возможность увидеть к каком контексте дыло использовано то или иное слово, в моем случае это слова "дело", "кровь" и "лицо".
+В данном задании мы анализируем текст более глубоко, так как данная функция дает нам возможность увидеть к каком контексте дыло использовано то или иное слово, в моем случае это слова "дело", "кровь" и "лицо.
+
 ![](https://raw.githubusercontent.com/anastasiagrechenko/hw6/master/цг9.png)
 ![](https://raw.githubusercontent.com/anastasiagrechenko/hw6/master/цг10.png)
 
