@@ -43,6 +43,10 @@
 ![](https://raw.githubusercontent.com/anastasiagrechenko/hw6/master/цг9.png)
 ![](https://raw.githubusercontent.com/anastasiagrechenko/hw6/master/цг10.png)
 ![](https://raw.githubusercontent.com/anastasiagrechenko/hw6/master/цг11.png)
+![](https://raw.githubusercontent.com/anastasiagrechenko/hw6/master/цг12.png)
+
+д) В этом пункте необходимо было составить для слов список биграмм.
+
 
 
 
