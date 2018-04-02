@@ -10,6 +10,10 @@
 
 ![](https://raw.githubusercontent.com/anastasiagrechenko/hw6/master/цг2.png)
 
+Задание 3
+
+
+
 
 
 
