@@ -25,6 +25,8 @@
 ![](https://raw.githubusercontent.com/anastasiagrechenko/hw6/master/цг%20(2).png)
 
 3. В Trends(корпус BNC) я выбрала слово archaeological. ![](https://raw.githubusercontent.com/anastasiagrechenko/hw6/master/цг%20(3).png)
+Далее, я сравнила частоту этого слова в Google Ngram Viewer и в Sketch Engine(Trends). ![](https://raw.githubusercontent.com/anastasiagrechenko/hw6/master/цг%20(33).png) 
+На основании, предоставленного графика, могу сделать вывод, что в 1990 году(по графику в корпусе BNC) произошел резкий скачок, однако в Google Ngram Viewer никакого скачка нет. Я думаю, что это может быть связано с тем, что корпус BNC включает в себя лишь слова британского английского языка, а следовательно, выбор в 2 раза меньше, чем в Google Ngram Viewer,  поэтому различия данных имеют место быть.
 
 
 
