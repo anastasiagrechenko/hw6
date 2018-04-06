@@ -24,8 +24,10 @@
 2. Я выбрала два синонимичных глагола : look и watch. На данном графике мы можем увидеть с какими дополнениями (objects) они могут употребляться. Также, исходя из графика, я могу сделать следующие выводы и привести примеры. Слово look может употребляться с такими дополнениями, как :  enough, glass, fine, mess  и с другими. В свою очередь слово watch может употребляться со словами : movie, game, space, football и  другими. 
 ![](https://raw.githubusercontent.com/anastasiagrechenko/hw6/master/цг%20(2).png)
 
-3. В Trends(корпус BNC) я выбрала слово archaeological. ![](https://raw.githubusercontent.com/anastasiagrechenko/hw6/master/цг%20(3).png)
-Далее, я сравнила частоту этого слова в Google Ngram Viewer и в Sketch Engine(Trends). ![](https://raw.githubusercontent.com/anastasiagrechenko/hw6/master/цг%20(33).png) 
+3. В Trends(корпус BNC) я выбрала слово archaeological.
+![](https://raw.githubusercontent.com/anastasiagrechenko/hw6/master/цг%20(3).png)
+Далее, я сравнила частоту этого слова в Google Ngram Viewer и в Sketch Engine(Trends).
+![](https://raw.githubusercontent.com/anastasiagrechenko/hw6/master/цг%20(33).png) 
 На основании, предоставленного графика, могу сделать вывод, что в 1990 году(по графику в корпусе BNC) произошел резкий скачок, однако в Google Ngram Viewer никакого скачка нет. Я думаю, что это может быть связано с тем, что корпус BNC включает в себя лишь слова британского английского языка, а следовательно, выбор в 2 раза меньше, чем в Google Ngram Viewer,  поэтому различия данных имеют место быть.
 
 
