@@ -21,3 +21,6 @@
 1. три самых частотных модификатора (modifiers) существительного question. 
 ![](https://raw.githubusercontent.com/anastasiagrechenko/hw6/master/цг%20(1).png)
 
+2. Я выбрала два синонимичных глагола : look и watch. 
+
+
