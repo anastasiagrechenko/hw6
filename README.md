@@ -18,5 +18,5 @@
  
 # Часть 2 : Sketch Engine
 
-1. три самых частотных модификатора (modifiers) существительного question.
+1. три самых частотных модификатора (modifiers) существительного question. ![](https://raw.githubusercontent.com/anastasiagrechenko/hw6/master/цг%20(1).png)
 
